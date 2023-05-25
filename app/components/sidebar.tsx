@@ -123,8 +123,7 @@ export function SideBar(props: { className?: string }) {
         <div className={styles["sidebar-sub-title"]}>
           公益Ai网站，KEY获取<a href="https://wwsla.pro">北落果铺</a><br />
           更多Ai网站，前往<a href="https://chat.upnb.top/">Ai导航网站</a><br />
-          不清楚怎么回事，120刀的账号被封了好几个，故不再提供免费公益网站<br />
-          网站已接入Midjourney绘画，输入“/mj ”即可使用。体验者加微信群：tilenia<br />
+          网站已接入Midjourney绘画，输入“/mj ”即可使用。<br />
          
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
